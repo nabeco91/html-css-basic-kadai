@@ -76,7 +76,7 @@ a:hover {
 }
 
 @media screen and (max-width: 768px) {
-  div {
+  #parent {
     display: flex;
     flex-direction: column;
   }
